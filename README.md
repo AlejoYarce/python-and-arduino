@@ -8,5 +8,6 @@ In the **read.py** file, you have to set the serial port. If you are using a Ras
 # HOW TO
 1. Clone the project
 2. **cd** to the main folder of the project
-3. Run the project --> python read.py
+3. Run the arduino code **serialport.ino**
+4. Run the project --> python read.py
 
